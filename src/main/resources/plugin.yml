@@ -1,0 +1,7 @@
+name: Vaults
+version: '1.0'
+main: me.yesice.vaults.Vaults
+api-version: '1.20'
+authors: [ yesIce ]
+commands:
+  vaults:
